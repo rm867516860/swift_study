@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		9068704E268DEA5500F9A0AF /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		90D8704E27CE56A300021BC0 /* 10switch_closer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 10switch_closer.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		90DDA66327B365690077A105 /* 01GCD_Dispatch_Serial.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01GCD_Dispatch_Serial.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		90DDA66427B373540077A105 /* 02GCD_Dispatch_Current.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02GCD_Dispatch_Current.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		90DDA66527B3904E0077A105 /* 03GCD_QOS_unspecified.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03GCD_QOS_unspecified.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -23,6 +24,7 @@
 		90687047268DEA3B00F9A0AF = {
 			isa = PBXGroup;
 			children = (
+				90D8704E27CE56A300021BC0 /* 10switch_closer.playground */,
 				90E0C44E27B4FBA3005F9A38 /* 09GCD_QOS_summary.playground */,
 				90E0C44D27B3BD46005F9A38 /* 08GCD_delay.playground */,
 				90DDA66927B3A6AB0077A105 /* 07GCD_qos_current3.playground */,

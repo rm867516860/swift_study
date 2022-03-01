@@ -46,3 +46,6 @@ func maintest(){
 }
 
 var test1 = concurrenttest()
+//var test2 = serialTest()
+//var test3 = maintest()
+
