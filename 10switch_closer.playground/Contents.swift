@@ -33,6 +33,8 @@ func switcher02(cmd:String) throws -> String {
     return("no error 2")
 }
 
+
+
 func switcher03(cmd:String) throws -> String {
     switch cmd{
         case "AA":
